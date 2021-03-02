@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+/* w c++ funkcja Wynik nie jest poprawna poniewaz Dodaj odnosi sie do wiecej niz jednej zmiennej co powoduje blad */
 double Dodaj();
 
 

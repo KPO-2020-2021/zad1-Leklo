@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-
+/* Brak Roznicy Poprawne Dzialanie */
 struct TrojmianKw {
   double  a;
   double  b;

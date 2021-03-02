@@ -2,7 +2,7 @@
 #include <malloc.h>
 #include <string.h>
 
-
+/* w kompliacji w jezyku c++ program nie konwertuje znakow polskich na odpowiedniki niepolskie dla kodu ASCII a w C wykonuje taka operacje*/
 
 char Zamien( int KodZnaku, int *TabKodow, char *TabZnakow, int Rozmiar)
 {
